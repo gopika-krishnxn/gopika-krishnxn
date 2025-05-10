@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-    <a href="linkedin.com/in/gopika-krishnan-049595292" target="_blank">
+    <a href="https://www.linkedin.com/in/gopika-krishnan-049595292" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
     </a>
     <a href="https://www.instagram.com/gop_.ika_" target="_blank">
