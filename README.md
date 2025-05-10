@@ -74,5 +74,4 @@
         <img alt="github-snake" src="https://raw.githubusercontent.com/gopika-krishnxn/gopika-krishnxn/output/github-snake.svg" />
     </picture>
 </div>
-
 <h3 align="center">Let's build something amazing together! 🚀</h3>
