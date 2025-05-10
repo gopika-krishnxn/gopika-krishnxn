@@ -1,24 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently studying in CMS College of Engineering & Technology, Coimbatore<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about HTML, CSS, JavaScript etc...<br>⚡ Fun fact : I Speak fluent emoji - but my code speaks louder !
+<img align="right" src="https://komarev.com/ghpvc/?username=gopika-krishnxn" alt="gopika-krishnxn" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7D815&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+%3CDevelopers%2F%3E;I'm+Gopika+Krishnan;" />
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gop_.ika_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopika) 
+<h3 align="center"> Full-Stack Developer | Computer Science Enthusiast | Open-Source Contributor </h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gopika-krishnxn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gopika-krishnxn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gopika-krishnxn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+ 
+ 🔭 I’m currently studying in **CMS COLLEGE OF ENGINEERING & TECHNOLOGY, COIMBATORE**
+ 
+ 💻 Currently Learning **Full Stack Web Development ( MERN Stack ), AI/ML & Cloud Computing**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 🎨 Passionate about **Karate, Drawing, Piano, and Basketball**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gopika-krishnxn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💬 Feel free to ask me about **Python, JavaScript, React...**
 
----
-[![](https://visitcount.itsvg.in/api?id=gopika-krishnxn&icon=0&color=0)](https://visitcount.itsvg.in)
+⚡ Fun fact : **I Speak fluent emoji - but my code speaks louder !**
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<div align="center">
+    <a href="linkedin.com/in/gopika-krishnan-049595292" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    </a>
+    <a href="https://www.instagram.com/gop_.ika_" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+    </a>
+    <a href="mailto:your-email@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
+
+| Python3 | C | Java | HTML5 | CSS3 | JS | React | nodejs | VScode | Numpy | Pandas | MySQL |
+|----------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |
+</div>
+
+<br/>
+
+<h1 align="center">⚡ GitHub Stats ⚡</h1>
+<p align="center">
+  <img height=250 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=gopika-krishnxn&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gopika-krishnxn&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gopika-krishnxn&theme=transparent" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gopika-krishnxn&theme=transparent" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gopika-krishnxn&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopika-krishnxn&theme=transparent" height="180em" alt="Commitments"/>
+</div>
+
+<br/>
+
+<h1 align="center">💭 Quotes For The Day </h1>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gopika-krishnxn/gopika-krishnxn/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gopika-krishnxn/gopika-krishnxn/output/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/gopika-krishnxn/gopika-krishnxn/output/github-snake.svg" />
+    </picture>
+</div>
+
+<h3 align="center">Let's build something amazing together! 🚀</h3>
