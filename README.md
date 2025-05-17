@@ -12,8 +12,6 @@
  
  💻 Currently Learning **Full Stack Web Development ( MERN Stack ), AI/ML & Cloud Computing**
 
- 🎨 Passionate about **Karate, Drawing, Piano, and Basketball**
-
 💬 Feel free to ask me about **Python, JavaScript, React...**
 
 ⚡ Fun fact : **I Speak fluent emoji - but my code speaks louder !**
