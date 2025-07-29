@@ -4,9 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00BFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+%3CDevelopers%2F%3E;I'm+Gopika+Krishnan;" />
 </h1>
 
-<h3 align="center">I'm a Computer Science and Engineering student with a passion for Flutter development combined with AI and Data Science. I love building intelligent systems, working on creative projects, and exploring new technologies.
-
-.</h3>
+<h3 align="center">I'm a Computer Science and Engineering student with a passion for Flutter development combined with AI and Data Science. I love building intelligent systems, working on creative projects, and exploring new technologies.</h3>
 
 <br/>
 
@@ -42,9 +40,7 @@
  
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <br/>
-<div align="center">
-    
-</div>
+
 
 <br/>
 
